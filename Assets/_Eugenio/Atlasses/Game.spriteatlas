@@ -23,14 +23,14 @@ SpriteAtlas:
       blockOffset: 1
       allowAlphaSplitting: 0
       enableRotation: 0
-      enableTightPacking: 1
+      enableTightPacking: 0
     packedHash:
       serializedVersion: 2
-      Hash: b56443be1d52b1d82b9163c66cb4de6f
+      Hash: 547a952a3f6abf1fabc22460b021f4b8
     variantMultiplier: 1
     bindAsDefault: 1
     finalFormat: 47
-    hashString: b56443be1d52b1d82b9163c66cb4de6f
+    hashString: 547a952a3f6abf1fabc22460b021f4b8
     totalSpriteSurfaceArea: 853128
     packables:
     - {fileID: 102900000, guid: 3650b793a84594097afdfa50919b55c3, type: 3}

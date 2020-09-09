@@ -222,8 +222,8 @@ PlayerSettings:
   AndroidTargetDevice: 0
   AndroidSplashScreenScale: 0
   androidSplashScreen: {fileID: 0}
-  AndroidKeystoreName: Assets/TanksStore.keystore
-  AndroidKeyaliasName: tanks
+  AndroidKeystoreName: C:/Users/Eugenio/Documents/Git/Tanks2015/Assets/TanksStore.keystore
+  AndroidKeyaliasName: 
   AndroidTVCompatibility: 0
   AndroidIsGame: 1
   androidEnableBanner: 1
