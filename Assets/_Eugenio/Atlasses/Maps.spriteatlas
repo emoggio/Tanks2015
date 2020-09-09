@@ -1,0 +1,102 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: Maps
+  m_EditorData:
+    textureSettings:
+      anisoLevel: 1
+      compressionQuality: 80
+      maxTextureSize: 2048
+      textureCompression: 2
+      colorSpace: 1
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 1
+    platformSettings: []
+    packingParameters:
+      paddingPower: 2
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 0
+      enableTightPacking: 1
+    packedHash:
+      serializedVersion: 2
+      Hash: ca62500e4d7f7c15ded3516d62f0a60b
+    variantMultiplier: 1
+    bindAsDefault: 1
+    finalFormat: 47
+    hashString: ca62500e4d7f7c15ded3516d62f0a60b
+    totalSpriteSurfaceArea: 5242880
+    packables:
+    - {fileID: 102900000, guid: 323d49a85b22e4b538fc7c45dc2b016d, type: 3}
+    packedSpriteRenderDataKeys:
+    - 8824cfad63a2f47d3b584a0cefa93564: 21300000
+    - 69eecaa20ba7641518e3a5365eb6fd30: 21300000
+    - 30dd12a918adf4553bc8ab61f4a9daf6: 21300000
+    - 0520678d1d11d47bd8e079652705874b: 21300000
+    - 71d7d6ee924c94282b34a57d5c1a1dce: 21300000
+    - 227c16ce7eecb4ca09440a7ee3f95ad6: 21300000
+    - ff5207cac64e244e99ab3c44c73f0761: 21300000
+    - e475d39fef90f4320949f9bb728359e5: 21300000
+    - 7b7d9db1e813548c786c72896b517944: 21300000
+    - a1cb15d41e1dc45e3907f785e6db231f: 21300000
+    - f991b46f74e804137aa634a6a59d32e7: 21300000
+    - 3d97c877a8212422f9bf37b4774597fb: 21300000
+    - 4de62019888be49b69eb7edc6c499354: 21300000
+    - 37dcd45e7ca7c481694c29a279a3aaae: 21300000
+    - 3436a2b67284840cb807a01bd340464e: 21300000
+    - 6480310fc71344a0a88e2c99601ac018: 21300000
+    - 3879ef10962c247f2bbc3e328a3bffef: 21300000
+    - cc58e29c527e540d6a01a6bd68fc637e: 21300000
+    - 8c053f24deffa41bf9e2bc72e94130ad: 21300000
+    - 777f4be1832eb47648a63379d52533c4: 21300000
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: 8824cfad63a2f47d3b584a0cefa93564, type: 3}
+  - {fileID: 21300000, guid: 69eecaa20ba7641518e3a5365eb6fd30, type: 3}
+  - {fileID: 21300000, guid: 30dd12a918adf4553bc8ab61f4a9daf6, type: 3}
+  - {fileID: 21300000, guid: 0520678d1d11d47bd8e079652705874b, type: 3}
+  - {fileID: 21300000, guid: 71d7d6ee924c94282b34a57d5c1a1dce, type: 3}
+  - {fileID: 21300000, guid: 227c16ce7eecb4ca09440a7ee3f95ad6, type: 3}
+  - {fileID: 21300000, guid: ff5207cac64e244e99ab3c44c73f0761, type: 3}
+  - {fileID: 21300000, guid: e475d39fef90f4320949f9bb728359e5, type: 3}
+  - {fileID: 21300000, guid: 7b7d9db1e813548c786c72896b517944, type: 3}
+  - {fileID: 21300000, guid: a1cb15d41e1dc45e3907f785e6db231f, type: 3}
+  - {fileID: 21300000, guid: f991b46f74e804137aa634a6a59d32e7, type: 3}
+  - {fileID: 21300000, guid: 3d97c877a8212422f9bf37b4774597fb, type: 3}
+  - {fileID: 21300000, guid: 4de62019888be49b69eb7edc6c499354, type: 3}
+  - {fileID: 21300000, guid: 37dcd45e7ca7c481694c29a279a3aaae, type: 3}
+  - {fileID: 21300000, guid: 3436a2b67284840cb807a01bd340464e, type: 3}
+  - {fileID: 21300000, guid: 6480310fc71344a0a88e2c99601ac018, type: 3}
+  - {fileID: 21300000, guid: 3879ef10962c247f2bbc3e328a3bffef, type: 3}
+  - {fileID: 21300000, guid: cc58e29c527e540d6a01a6bd68fc637e, type: 3}
+  - {fileID: 21300000, guid: 8c053f24deffa41bf9e2bc72e94130ad, type: 3}
+  - {fileID: 21300000, guid: 777f4be1832eb47648a63379d52533c4, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - desert4
+  - desert5
+  - desert1
+  - desert2
+  - desert3
+  - sp6
+  - sp7
+  - sp4
+  - sp5
+  - sp2
+  - sp3
+  - sp1
+  - sp8
+  - sp9
+  - sp10
+  - snow2
+  - snow3
+  - snow1
+  - snow4
+  - snow5
+  m_Tag: Maps
+  m_IsVariant: 0
